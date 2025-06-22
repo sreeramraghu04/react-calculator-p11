@@ -13,7 +13,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-900 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-slate-500 flex items-center justify-center p-4">
       <div className="bg-white w-full max-w-sm rounded-2xl shadow-2xl p-6 outline-none">
         {/* Display */}
         <input
